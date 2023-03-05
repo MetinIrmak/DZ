@@ -80,19 +80,19 @@
 //4 -> 24
 //5 -> 120
 
-int Factor(int num)
-{
+// int Factor(int num)
+// {
 
-int n = 1;
-for (int i = 1; i <= num; i++)
-{
+// int n = 1;
+// for (int i = 1; i <= num; i++)
+// {
 
-n = n * i;
+// n = n * i;
 
-}
-return n;
+// }
+// return n;
 
-}
-Console.WriteLine("Input number");
-int num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(Factor(num));
+// }
+// Console.WriteLine("Input number");
+// int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(Factor(num));

@@ -1,0 +1,15 @@
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\bin\Debug\net6.0\homework9(exam).exe
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\bin\Debug\net6.0\homework9(exam).deps.json
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\bin\Debug\net6.0\homework9(exam).runtimeconfig.json
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\bin\Debug\net6.0\homework9(exam).dll
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\bin\Debug\net6.0\homework9(exam).pdb
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).csproj.AssemblyReference.cache
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).AssemblyInfoInputs.cache
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).AssemblyInfo.cs
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).csproj.CoreCompileInputs.cache
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).dll
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\refint\homework9(exam).dll
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).pdb
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\homework9(exam).genruntimeconfig.cache
+C:\Users\Metin1\Documents\01. Учеба программиста\03. c#\working directory\homework\homework9(exam)\obj\Debug\net6.0\ref\homework9(exam).dll
